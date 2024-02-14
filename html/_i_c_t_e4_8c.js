@@ -1,0 +1,27 @@
+var _i_c_t_e4_8c =
+[
+    [ "CLK_FREQ", "_i_c_t_e4_8c.html#aafc10c8bbf3d3c18ed615f24925bbb10", null ],
+    [ "CLK_SCALE", "_i_c_t_e4_8c.html#a0cd5e6b160b7b6920e83f59501552f97", null ],
+    [ "DONE", "_i_c_t_e4_8c.html#abe6b865c045f3e7c6892ef4f15ff5779", null ],
+    [ "LED_PIN_TASK1", "_i_c_t_e4_8c.html#a91e0a23f0387dd967b0ad3ce30a39124", null ],
+    [ "LED_PIN_TASK2", "_i_c_t_e4_8c.html#a60fe506600fb59d7e2499d4d032b7553", null ],
+    [ "N_MAX_TASKS", "_i_c_t_e4_8c.html#aa20dc5438625ad80f27e2b1fc4170c8e", null ],
+    [ "PENDING", "_i_c_t_e4_8c.html#a9960d0d5ae92fc92c70bbb84c2a5c0cc", null ],
+    [ "READY", "_i_c_t_e4_8c.html#ad1235d5ce36f7267285e82dccd428aa6", null ],
+    [ "RUNNING", "_i_c_t_e4_8c.html#a6fb7181d994ee98e735494be55809708", null ],
+    [ "SLEEP", "_i_c_t_e4_8c.html#a44e89d523436fcbbf2c56e4fb335d509", null ],
+    [ "ISR", "_i_c_t_e4_8c.html#aec43762dc86e029b395d4e5819192c2d", null ],
+    [ "loop", "_i_c_t_e4_8c.html#afe461d27b9c48d5921c00d521181f12f", null ],
+    [ "schedule_sync", "_i_c_t_e4_8c.html#aa795a3f5ae7c3378d219ad1ca83a282d", null ],
+    [ "setup", "_i_c_t_e4_8c.html#a4fc01d736fe50cf5b977f755b675f11d", null ],
+    [ "sleep_474", "_i_c_t_e4_8c.html#adb2bea98b6ff09ca57694403daa07f02", null ],
+    [ "task1_off", "_i_c_t_e4_8c.html#a24a540658ac810ec52cd1d2442495355", null ],
+    [ "task1_on", "_i_c_t_e4_8c.html#a70b9703ddfc81759bc0594c79935e181", null ],
+    [ "task2_off", "_i_c_t_e4_8c.html#afe06758b656e53f2a3ed62523fbbd075", null ],
+    [ "task2_on", "_i_c_t_e4_8c.html#aaa4ffd9a25d675165c3150a298cb74b2", null ],
+    [ "current_sleeptime", "_i_c_t_e4_8c.html#acbf0aa1dba159d48c79d2cffceee4c9d", null ],
+    [ "current_state", "_i_c_t_e4_8c.html#ac17428806616a1fbc5f8a46cd7a4dbcd", null ],
+    [ "sFlag", "_i_c_t_e4_8c.html#a4f719e7ed8e72d4df6f927de232f961a", null ],
+    [ "task_index", "_i_c_t_e4_8c.html#ae2db4f5bc477001abcb8987f30e6b22c", null ],
+    [ "taskArray", "_i_c_t_e4_8c.html#ae93457d0ee61f5449b411786abf967d7", null ]
+];
